@@ -12,7 +12,7 @@
 ## Overview
 This project analyzes booking and search session data to uncover user behavior patterns. It focuses on key metrics like search time, booking sessions, and the relationship between variables such as the day of the week and booking success rates. The goal is to identify trends that can inform decision-making and optimize the user experience.
 
-## Key Feartures
+## Key Features
 Data preprocessing and merging of multiple datasets.
 Analysis of search session patterns based on the time and day of the week.
 Grouping and calculating metrics to observe booking success rates (BSR) by day.
